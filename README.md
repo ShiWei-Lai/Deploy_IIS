@@ -119,10 +119,3 @@ python main.py
 
 ## Contributing
 If you encounter issues or have suggestions for improvement, please submit a pull request or create an issue on the repository.
-
-## License
-This project is licensed under the MIT License.
-
----
-
-**Developed to simplify IIS deployment and ensure seamless project transitions from local machines to production environments.**
