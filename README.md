@@ -1,5 +1,8 @@
 # IIS Deployment Tool
 
+![Client Interface](client-interface.png)
+![Server Interface](server-interface.png)
+
 ## Introduction
 The **IIS Deployment Tool** is a Python-based solution designed to address the challenges faced during IIS deployment when projects are distributed across different local machines. This tool eliminates the need for Action Runners in automated deployment scenarios by offering a centralized and user-friendly approach for:
 
@@ -37,6 +40,12 @@ Make sure you have the following Python modules installed:
 - PyQt5
 - subprocess
 - threading
+
+Install dependencies using the following command:
+
+```bash
+pip install -r requirements.txt
+```
 
 ### System Requirements
 - Windows Operating System
